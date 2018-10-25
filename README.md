@@ -1,14 +1,16 @@
 #Installation
 1) Get the latest Node.js [Node JS](https://nodejs.org/en/)
-2) Install angular by using cmd "npm install -g @angular/cli" [Angular CLI](https://angular.io/guide/quickstart)
+2) Check npm [Reference](https://blog.teamtreehouse.com/install-node-js-npm-windows)
+3) Check npm  [Reference](https://www.npmjs.com/get-npm)
+4) Install angular by using cmd "npm install -g @angular/cli" [Angular CLI](https://angular.io/guide/quickstart)
 
 # Install and run the json server
-1) npm install -g json-server
-2) run "json-server --watch to-do-database.json"
+2) npm install -g json-server
+3) run "json-server --watch to-do-database.json"
 
 # Run project
 1) Open the IDE terminal
-2) Open the project and run npm install.
+2) Open the project and run npm install to make sure all the modules/dependencies are installed.
 3) Run cmd "npm start" or run "ng start".
 
 # ToDo
