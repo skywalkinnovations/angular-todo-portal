@@ -1,8 +1,7 @@
 #Installation
 1) Get the latest Node.js [Node JS](https://nodejs.org/en/)
-2) Check npm [Reference](https://blog.teamtreehouse.com/install-node-js-npm-windows)
-3) Check npm  [Reference](https://www.npmjs.com/get-npm)
-4) Install angular by using cmd "npm install -g @angular/cli" [Angular CLI](https://angular.io/guide/quickstart)
+2) Check npm  [Reference](https://www.npmjs.com/get-npm)
+3) Install angular by using cmd "npm install -g @angular/cli" [Angular CLI](https://angular.io/guide/quickstart)
 
 # Install and run the json server
 2) npm install -g json-server
