@@ -1,0 +1,24 @@
+{
+  "getToDoItems": [
+    {
+      "id": 1,
+      "name": "clean the yard",
+      "completed":false
+    },
+    {
+      "id": 2,
+      "name": "close the back gate",
+      "completed":false
+    },
+    {
+      "id": 3,
+      "name": "meeting John Snow",
+      "completed":false
+    },
+    {
+      "id": 4,
+      "name": "Listen to the new album of John",
+      "completed":false
+    }
+  ]
+}
